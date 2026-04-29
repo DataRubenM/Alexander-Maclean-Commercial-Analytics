@@ -49,28 +49,28 @@ The project was delivered in **December 2024** and covers data spanning from **1
 ### Sales Dashboard
 Analysis of £184.84M revenue across countries, product categories and time periods (2020–2022).
 
-![Sales Dashboard](screenshots/Sales_Dashboard.png)
+![Sales Dashboard](Sales%20Dashboard.png)
 
 ---
 
 ### HR Analytics Dashboard
 Workforce analysis covering 384 employees across salary, retention, gender distribution and tenure.
 
-![HR Dashboard](screenshots/HR_dashboard.png)
+![HR Dashboard](HR%20dashboard.png)
 
 ---
 
 ### Udemy Market Analysis Dashboard
 Market analysis of 3,672 Udemy courses covering revenue, subscribers and subject popularity (2011–2017).
 
-![Udemy Dashboard](screenshots/Dashboard_Udemy_Market_Analysis.png)
+![Udemy Dashboard](Dashboard%20Udemy%20Market%20Analysis.png)
 
 ---
 
 ### edX Market Analysis Dashboard
 Market analysis of 972 edX courses covering institutions, enrolment and course levels.
 
-![edX Dashboard](screenshots/Dashboard_Edx_Market_Analysis.png)
+![edX Dashboard](Dashboard%20Edx%20Market%20Analysis.png)
 
 ---
 
